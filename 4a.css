@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+h2 {
+    color: red;
+    font-weight: bold;
+}
+
+.first {
+    color: blue;
+}
+
+.second {
+    color: red;
+}
+
+input {
+    color: red;
+}
+
+button {
+color: green;
+}
+
+div {
+    border: 1px solid green
+}
